@@ -276,7 +276,7 @@ The analysis will be available in your browser at `http://localhost:8888`
 
 ### 🏠 **Executive Dashboard**
 <p align="center">
-  <img src="dashboard.png" alt="Executive Dashboard" width="100%">
+  <img src="Dashboard.png" alt="Executive Dashboard" width="100%">
 </p>
 
 ### 📊 **Dataset Preview**
