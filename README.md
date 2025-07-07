@@ -485,7 +485,7 @@ copies or substantial portions of the Software.
 ### 👤 **Author**
 - **Name**: Sentamilmukilan.R.M
 - **Email**: sentamilmukilan@example.com
-- **GitHub**: [@Geo-y20](https://github.com/Geo-y20)
+- **GitHub**: [Github](https://github.com/sentaamil/Uber_Rides_Data_Analysis/edit/main/README.md)
 - **LinkedIn**: [Sentamilmukilan R M](https://linkedin.com/in/sentamilmukilan)
 
 ### 💬 **Support Channels**
