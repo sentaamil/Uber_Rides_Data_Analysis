@@ -410,10 +410,7 @@ pd.set_option('display.width', None)
 ### 🛠️ **Development Setup**
 ```bash
 # Fork the repository
-git clone https://github.com/Geo-y20/Uber-Rides-Data-Analysis.git
-
-# Create feature branch
-git checkout -b feature/your-feature-name
+git clone https://github.com/sentaamil/Uber_Rides_Data_Analysis.git
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -484,7 +481,7 @@ copies or substantial portions of the Software.
 
 ### 👤 **Author**
 - **Name**: Sentamilmukilan.R.M
-- **Email**: sentamilmukilan@example.com
+- **Email**: sentamilmukilan18@gmail.com
 - **GitHub**: [Github](https://github.com/sentaamil/Uber_Rides_Data_Analysis/edit/main/README.md)
 - **LinkedIn**: [Sentamilmukilan R M](https://linkedin.com/in/sentamilmukilan)
 
@@ -506,7 +503,7 @@ If you found this project helpful, please consider:
 
 <div align="center">
   <h3>🚗 Built with ❤️ for data enthusiasts and transportation analytics</h3>
-  <p>© 2024 Uber Ride Data Analysis Project. All rights reserved.</p>
+  <p>© 2024 Uber Ride Data Analysis Project...Sentamil....All rights reserved.</p>
 </div>
 
 ---
